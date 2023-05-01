@@ -1,2 +1,2 @@
 # lcc
-My Website for Eaton RESA
+Website for Eaton RESA
